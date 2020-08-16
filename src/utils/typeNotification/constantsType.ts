@@ -1,0 +1,14 @@
+export const INVITE = "INVITE";
+export const ROLE_ASSIGN = "ROLE_ASSIGN";
+export const ROLE_CHANGE = "ROLE_CHANGE";
+export const OPEN_SOMETHING = "OPEN_SOMETHING";
+export const TASK_CREATE = "TASK_CREATE";
+export const TASK_ASSIGN = "TASK_ASSIGN";
+export const TASK_IN_WORK = "TASK_IN_WORK";
+export const TASK_DONE = "TASK_DONE";
+export const TASK_DELETE = "TASK_DELETE";
+export const DATE_CHANGE = "DATE_CHANGE";
+export const DESCRIPTION_CHANGE = "DESCRIPTION_CHANGE";
+export const EMPLOYEE_CHANGE = "EMPLOYEE_CHANGE";
+export const PASSWORD_CHANGE = "PASSWORD_CHANGE";
+export const EMAIL_CHANGE = "EMAIL_CHANGE";
